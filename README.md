@@ -8,7 +8,7 @@ O objetivo é facilitar o controle de atendimentos, clientes, pacientes e rotina
 Criar uma aplicação web moderna, simples e eficiente para veterinários autônomos e futuramente pequenas e médias clínicas veterinárias.
 
 ## Problema que resolve
-Muitos proficionais utilizam papel, planilhas ou sistemas confusos.
+Muitos profissionais utilizam papel, planilhas ou sistemas confusos.
 Este sistema busca centralizar tudo em um único lugar, acessível pela internet.
 
 ## Funcionalidades previstas (inicial)
