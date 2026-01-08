@@ -25,27 +25,38 @@ Menu principal
 
   ├─ Clientes
   
-  │    ├─ Cadastrar cliente
+  │      ├─ Cadastrar cliente
   
-  │    └─ Listar clientes
+  │      └─ Listar clientes
   
   │
   
   ├─ Pacientes (Pets)
   
-  │    ├─ Cadastrar pet
+  │      ├─ Cadastrar pet
   
-  │    └─ Histórico do pet
+  │      └─ Histórico do pet
+  
   │
+  
   ├─ Agendamentos
-  │    ├─ Criar agendamento
-  │    └─ Ver agenda
+  
+  │      ├─ Criar agendamento
+  
+  │      └─ Ver agenda
+  
   │
+  
   └─ Atendimentos
-       ├─ Registrar atendimento
-       └─ Ver histórico
+  
+         ├─ Registrar atendimento
+       
+         └─ Ver histórico
+       
 ↓
+
 Logout
+
 
 
 ## MVP - Funcionalidades previstas (inicial)
