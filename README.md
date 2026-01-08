@@ -14,49 +14,28 @@ Este sistema busca centralizar tudo em um único lugar, acessível pela internet
 ## Fluxo do Sistema
 INÍCIO
 ↓
-
 Tela de Login
 ↓
-
 Dashboard (Visão geral)
 ↓
-
-Menu principal
-
+Menu principa
   ├─ Clientes
-  
   │      ├─ Cadastrar cliente
-  
   │      └─ Listar clientes
-  
   │
-  
   ├─ Pacientes (Pets)
-  
   │      ├─ Cadastrar pet
-  
   │      └─ Histórico do pet
-  
   │
-  
   ├─ Agendamentos
-  
   │      ├─ Criar agendamento
-  
   │      └─ Ver agenda
-  
   │
-  
   └─ Atendimentos
-  
          ├─ Registrar atendimento
-       
-         └─ Ver histórico
-       
+         └─ Ver histórico  
 ↓
-
 Logout
-
 
 
 ## MVP - Funcionalidades previstas (inicial)
