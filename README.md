@@ -11,7 +11,34 @@ Criar uma aplicação web moderna, simples e eficiente para veterinários autôn
 Muitos profissionais utilizam papel, planilhas ou sistemas confusos.
 Este sistema busca centralizar tudo em um único lugar, acessível pela internet.
 
-## Funcionalidades previstas (inicial)
+## Fluxo do Sistema
+INÍCIO
+↓
+Tela de Login
+↓
+Dashboard (Visão geral)
+↓
+Menu principal
+  ├─ Clientes
+  │    ├─ Cadastrar cliente
+  │    └─ Listar clientes
+  │
+  ├─ Pacientes (Pets)
+  │    ├─ Cadastrar pet
+  │    └─ Histórico do pet
+  │
+  ├─ Agendamentos
+  │    ├─ Criar agendamento
+  │    └─ Ver agenda
+  │
+  └─ Atendimentos
+       ├─ Registrar atendimento
+       └─ Ver histórico
+↓
+Logout
+
+
+## MVP - Funcionalidades previstas (inicial)
 - Cadastro de clientes (donos dos pets)
 - Cadastro de pacientes (animais)
 - Agendamento de consultas
