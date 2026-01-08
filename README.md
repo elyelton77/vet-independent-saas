@@ -22,12 +22,19 @@ Dashboard (Visão geral)
 ↓
 
 Menu principal
+
   ├─ Clientes
+  
   │    ├─ Cadastrar cliente
+  
   │    └─ Listar clientes
+  
   │
+  
   ├─ Pacientes (Pets)
+  
   │    ├─ Cadastrar pet
+  
   │    └─ Histórico do pet
   │
   ├─ Agendamentos
