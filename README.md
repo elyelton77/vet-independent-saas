@@ -14,10 +14,13 @@ Este sistema busca centralizar tudo em um único lugar, acessível pela internet
 ## Fluxo do Sistema
 INÍCIO
 ↓
+
 Tela de Login
 ↓
+
 Dashboard (Visão geral)
 ↓
+
 Menu principal
   ├─ Clientes
   │    ├─ Cadastrar cliente
