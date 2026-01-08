@@ -17,6 +17,9 @@ Este sistema busca centralizar tudo em um único lugar, acessível pela internet
 - Agendamento de consultas
 - Histórico de atendimentos
 - Controle básico de usuários
+- Solicitação de Exames
+- Prescrição de Receitas
+- Vacinação
 
 ## Status do projeto
 Em desenvolvimento – fase inicial de planejamento e estudos.
